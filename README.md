@@ -12,7 +12,12 @@
   
 **Landing Page**
 
+- [Task 2](https://car-showroom-landing-page.netlify.app/)
+
+
 **Calculator**
 
+- [Task 3](https://calculator-u-js.netlify.app/)
 
----
+
+-------
